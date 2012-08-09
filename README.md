@@ -11,4 +11,4 @@ Joomla! 1.5 is not supported and never will be, due to incompatibile.
 Disclaimer: Yireo is also the creator of MageBridge, which forms a bridge between Joomla! and Magento, and which main
 feature is to integrate Magento into Joomla! using an HTTP-based API. MageBridge is not needed to use this MagentoApi
 plugin. The only relationship between the two projects is that this MagentoApi plugin is perhaps used in MageBridge 2 as
-alternative to the HTTP-based API.
+alternative to the HTTP-based API. This project will remain free as in speech and as in beer.
