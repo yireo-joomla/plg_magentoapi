@@ -1,5 +1,6 @@
 MagentoApi
 ==========
+Homepage: http://www.yireo.com/software/labs/magento-api
 
 This project includes a Joomla! plugin to load Magento code within Joomla! 2.5 or later. With this plugin, you can write
 PHP-code that refers to Magento classes and objects within Joomla! extensions. To use the plugin, install it in Joomla!
