@@ -5,7 +5,7 @@
  * Allows to load the Magento framework-classes within the Joomla! environment
  *
  * @author Yireo (info@yireo.com)
- * @copyright Copyright 2012
+ * @copyright Copyright 2015
  * @license GNU Public License
  * @link http://www.yireo.com
  */
