@@ -13,3 +13,10 @@ Disclaimer: Yireo is also the creator of MageBridge, which forms a bridge betwee
 feature is to integrate Magento into Joomla! using an HTTP-based API. MageBridge is not needed to use this MagentoApi
 plugin. The only relationship between the two projects is that this MagentoApi plugin is perhaps used in MageBridge 2 as
 alternative to the HTTP-based API. This project will remain free as in speech and as in beer.
+
+---
+## Want to learn how to program Joomla plugins?
+We have released an excellent guide for developing Joomla plugins: **Programming Joomla Plugins** written by Jisse Reitsma, a must-have for any serious Joomla developer.
+
+https://www.yireo.com/books/programming-joomla-plugins-book
+
